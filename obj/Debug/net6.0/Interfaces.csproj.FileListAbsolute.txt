@@ -1,0 +1,5 @@
+C:\Users\PRISCILA\OneDrive\Escritorio\codingdojo_C#.net\C#\Interfaces\obj\Debug\net6.0\Interfaces.csproj.AssemblyReference.cache
+C:\Users\PRISCILA\OneDrive\Escritorio\codingdojo_C#.net\C#\Interfaces\obj\Debug\net6.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRISCILA\OneDrive\Escritorio\codingdojo_C#.net\C#\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\PRISCILA\OneDrive\Escritorio\codingdojo_C#.net\C#\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfo.cs
+C:\Users\PRISCILA\OneDrive\Escritorio\codingdojo_C#.net\C#\Interfaces\obj\Debug\net6.0\Interfaces.csproj.CoreCompileInputs.cache
